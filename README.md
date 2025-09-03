@@ -1,5 +1,5 @@
 # Beam Analysis AI Tool
-![Movie API Preview](https://cdn.glitch.global/0c5397c2-8b81-453e-a90c-14d5c20cfd5d/movie.png)  
+<!--![Movie API Preview](https://cdn.glitch.global/0c5397c2-8b81-453e-a90c-14d5c20cfd5d/movie.png)-->
 
 🌐 **Live Demo**: [https://beam-render.onrender.com](https://beam-render.onrender.com)  
 
