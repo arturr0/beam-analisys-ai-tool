@@ -1,7 +1,7 @@
 # Beam Analysis AI Tool
 ![Movie API Preview](https://cdn.glitch.global/0c5397c2-8b81-453e-a90c-14d5c20cfd5d/movie.png)  
 
-🌐 **Live Demo**: [https://beam-render.onrender.com/](https://beam-render.onrender.com/)  
+🌐 **Live Demo**: [https://beam-render.onrender.com](https://beam-render.onrender.com)  
 
 [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
 [![OpenAI](https://img.shields.io/badge/OpenRouter-000000?style=for-the-badge&logo=openai&logoColor=white)](https://openrouter.ai/)
