@@ -1,5 +1,7 @@
-cat > README.md << 'EOF'
 # Beam Analysis AI Tool
+![Movie API Preview](https://cdn.glitch.global/0c5397c2-8b81-453e-a90c-14d5c20cfd5d/movie.png)  
+
+🌐 **Live Demo**: [https://movieranker-react.onrender.com](https://movieranker-react.onrender.com)  
 
 [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
 [![OpenAI](https://img.shields.io/badge/OpenRouter-000000?style=for-the-badge&logo=openai&logoColor=white)](https://openrouter.ai/)
@@ -30,13 +32,4 @@ A powerful, AI-powered web application for structural engineers and students. De
 - **Styling**: Vanilla CSS3
 - **Language**: Vanilla JavaScript (ES6+)
 
-## 🚀 Quick Start & Installation
 
-### Prerequisites
-- Python 3.8+
-- `pip` (Python package manager)
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/your-username/beam-analysis-ai-tool.git
-cd beam-analysis-ai-tool
